@@ -1,0 +1,86 @@
+.inboxlg{
+    min-height: 60px;
+    text-align: center;
+    margin-top: 5%;
+}
+#sec1{
+    background-color: ghostwhite;
+}
+#sec2{
+    background-color:#5893cf;
+}
+.inbox2text{
+    height: 600px;
+}
+.linebox{
+    height:2px;
+    width: 400px;
+    margin-top: 50px;
+    background-color: aliceblue;
+}
+.inbox3text{
+    min-height: 200px;
+    text-align: center;
+}
+#sec4{
+    background-color:#5893cf;
+    
+}
+.inbox4icon{
+    min-height:300PX;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+#sec5{
+    background-color: black;
+}
+.inbox5text{
+    min-height: 300px;
+    color:white;
+    text-align: center;
+    margin-top:5%;
+}
+#sec7{
+    background-color: black;
+}
+.inbox7text{
+    min-height: 300px;
+    color: aliceblue;
+    text-align: center;
+}
+.inbox8text{
+    height: 200px;
+
+} 
+.icon{
+    margin-right: 50px;
+}
+.linebox{
+    height: 2px;
+    width: 500px;
+    margin-top: 50px;
+}
+@media(max-width:768px){
+    .f1{
+        font-size: medium;
+        text-align: center;
+    }
+    
+}
+@media(max-width:530px){
+    
+    .linebox {
+        width: 300px;
+        margin-left: 50px;
+    }
+    #sec2 button{
+        margin-left: 100px;
+
+    }
+    .inbox2text{
+        height: 400px;
+    }
+}
+
+
